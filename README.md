@@ -1,2 +1,2 @@
-# estudando_bootstral
+# estudando_bootstrap
 Utilizando bootstrap para front
